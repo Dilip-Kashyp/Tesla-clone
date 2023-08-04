@@ -1,0 +1,170 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Karla', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.bg {
+
+    width: 100%;
+    height: 100vh;
+
+}
+
+nav {
+    position: fixed;
+    top: 3%;
+    left: 10%;
+    width: 100%;
+}
+nav li {
+    display: inline-block;
+    list-style: none;
+    text-align: center;
+    margin: 10px;
+    padding-left: 20px;
+}
+
+nav ul {
+    width:75%;
+    text-align: center;
+    margin-top: -95px;
+
+}
+nav ul li a {
+
+    color: #241b1b9d;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: bold;
+
+}
+
+.logo img{
+    width: 200px;
+    display: inline-block;
+    margin-left: -100px;
+    margin-top: -50px;
+    
+    height: 100%;
+}
+
+
+
+
+
+section#about {
+    color: #291a1aad;
+    width: 50%;
+    height: 50%;
+    left: 30;
+    margin-top: 100px;
+    margin-left: 50px;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+
+
+.about {
+    font-size: 60px;
+    padding-bottom: 40px;
+}
+
+h3 {
+    margin-left: 65px;
+    padding-bottom: 50px;
+}
+
+a#button {
+    margin-left: 70px;
+    border: 3px solid #fff;
+    padding: 7px 60px;
+    border-radius: 5px;
+}
+
+a#button:hover {
+    color: black;
+    background: #fff;
+
+}
+
+.car_index {
+    width: 50%;
+    height: 50%;
+    margin-top: 80px;
+    margin-left: 40%;
+    position: absolute;
+
+
+
+}
+
+h1.car_heading {
+    color: #241b1be5;
+    font-size: 60px;
+    margin-bottom: 10px;
+}
+
+h4.car_p {
+    font-size: 20px;
+    color: #070505;
+
+}
+
+.button_1 {
+    
+    background: #ffffffc2;
+    list-style: none;
+    padding: 7px 50px;
+    border-radius: 5px;
+    position: absolute;
+    
+    display: inline-block;
+    font-weight: bold;
+    margin: 45% -10%;
+}
+
+.button_1 a {
+    text-decoration: none;
+    color: black;
+
+}
+
+#bat{ 
+    color: black;
+    background: #ffffff60;
+    list-style: none;
+    padding: 7px 50px;
+    border-radius: 5px;
+    position: absolute;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+    margin-top: 45%;
+    margin-left: 35%;
+}
+
+#bat a {
+    text-decoration: none;
+    color: black;
+
+}
+
+
+
+
+
+
+
+
+
+
